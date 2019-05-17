@@ -36,5 +36,7 @@ Solutions to crypto challenges
 
 13. ECB cut-and-paste
 
+14.
+
 15. PKCS#7 padding validation
 
