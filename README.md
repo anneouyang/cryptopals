@@ -34,3 +34,7 @@ Solutions to crypto challenges
 
 12. Byte-at-a-time ECB decryption (Simple)
 
+13. ECB cut-and-paste
+
+15. PKCS#7 padding validation
+
