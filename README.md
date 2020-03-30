@@ -20,22 +20,15 @@ Solutions to the Matasano Cryptography Challenges
 ## Set 2: Block Crypto
 
 9. [Implement PKCS#7 padding](/solutions/challenge9.py)
-
 10. [Implement CBC mode](/solutions/challenge10.py)
-
 11. [An ECB/CBC detection oracle](/solutions/challenge11.py)
-
 12. [Byte-at-a-time ECB decryption (Simple)](/solutions/challenge12.py)
-
 13. [ECB cut-and-paste](/solutions/challenge13.py)
-
 14. [Byte-at-a-time ECB decryption (Harder)]
-
 15. [PKCS#7 padding validation](/solutions/challenge15.py)
-
 16. [CBC bitflipping attacks]
 
-    
+
 
 ## Set 3: Block & Stream Crypto
 
