@@ -7,19 +7,12 @@ Solutions to the Matasano Cryptography Challenges
 ## Set 1: Basics
 
 1. [Convert hex to base64](/solutions/challenge1.py)
-
 2. [Fixed XOR](/solutions/challenge2.py)
-
 3. [Single-byte XOR cipher](/solutions/challenge3.py)
-
 4. [Detect single-character XOR](/solutions/challenge4.py)
-
 5. [Implement repeating-key XOR](/solutions/challenge5.py)
-
 6. [Break repeating-key XOR](/solutions/challenge6.py)
-
 7. [AES in ECB mode](/solutions/challenge7.py)
-
 8. [Detect AES in ECB mode](/solutions/challenge8.py)
 
 
@@ -40,7 +33,7 @@ Solutions to the Matasano Cryptography Challenges
 
 15. [PKCS#7 padding validation](/solutions/challenge15.py)
 
-
+    
 
 ## Set 3: Block & Stream Crypto
 
