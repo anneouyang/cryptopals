@@ -33,6 +33,8 @@ Solutions to the Matasano Cryptography Challenges
 
 15. [PKCS#7 padding validation](/solutions/challenge15.py)
 
+16. [CBC bitflipping attacks]
+
     
 
 ## Set 3: Block & Stream Crypto
