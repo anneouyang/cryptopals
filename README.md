@@ -39,7 +39,7 @@ Solutions to the Matasano Cryptography Challenges
 21. [Implement the MT19937 Mersenne Twister RNG](https://github.com/anneouyang/MT19937)
 22. [Crack an MT19937 seed](https://github.com/anneouyang/MT19937)
 23. [Clone an MT19937 RNG from its output](https://github.com/anneouyang/MT19937)
-24. [Create the MT19937 stream cipher and break it](https://github.com/anneouyang/MT19937)
+24. [Create the MT19937 stream cipher and break it]
 
 
 
